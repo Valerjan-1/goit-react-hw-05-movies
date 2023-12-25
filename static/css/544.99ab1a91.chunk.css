@@ -1,0 +1,2 @@
+.list{display:flex;flex-wrap:wrap;gap:20px;justify-content:center}.item{box-shadow:0 2px 4px -1px hsla(0,12%,97%,.2),0 4px 5px 0 hsla(0,10%,92%,.14),0 1px 10px 0 hsla(0,0%,100%,.12)}.item:focus,.item:hover{box-shadow:0 7px 8px -5px hsla(0,6%,97%,.2),0 8px 9px 0 hsla(0,8%,97%,.14),0 5px 15px 0 hsla(0,11%,96%,.12)}.link_movies{align-items:center;display:flex;flex-direction:column;gap:10px}.link_movies:focus,.link_movies:hover{color:blue}.description{font-size:16px;padding:10px}
+/*# sourceMappingURL=544.99ab1a91.chunk.css.map*/
